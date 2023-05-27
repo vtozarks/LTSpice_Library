@@ -15,6 +15,12 @@ Component links will open the corresponding datasheet.
 | :---      | :--- | :--- |
 | [BAS321](DataSheets/Diode/BAS321_Diode.pdf) | Nexperia | 200V General purpose diode |
 
+### LED
+| Component |  Manufacturer |Description |
+| :---      | :--- | :--- |
+| [LG_Q396](DataSheets/LED/Q396_LED_Green.pdf) | AMS OSRAM | SMD Standard LED - Green |
+| [LY_Q396](DataSheets/LED/Q396_LED_Yelllow.pdf) | AMS OSRAM | SMD Standard LED - Yellow |
+
 ### MOSFET
 | Component |  Manufacturer |Description |
 | :---      | :--- | :--- |
