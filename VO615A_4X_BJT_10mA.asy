@@ -1,0 +1,45 @@
+Version 4
+SymbolType BLOCK
+LINE Normal -32 -32 -64 -32
+LINE Normal -32 32 -32 -32
+LINE Normal -64 32 -32 32
+LINE Normal -48 -8 -32 8
+LINE Normal -16 -8 -48 -8
+LINE Normal -32 8 -16 -8
+LINE Normal -16 8 -48 8
+LINE Normal 49 -32 64 -32
+LINE Normal 32 -15 49 -32
+LINE Normal 32 32 32 -32
+LINE Normal 48 32 64 32
+LINE Normal 32 17 48 32
+LINE Normal 42 22 44 28
+LINE Normal 38 27 42 22
+LINE Normal 44 28 38 27
+LINE Normal 16 -16 -10 0
+LINE Normal 11 -16 16 -16
+LINE Normal 15 -11 11 -16
+LINE Normal 16 -16 15 -11
+LINE Normal 16 -1 -10 16
+LINE Normal 11 -1 16 -1
+LINE Normal 15 3 11 -1
+LINE Normal 16 -1 15 3
+RECTANGLE Normal 64 48 -64 -48
+WINDOW 3 2 60 Center 0
+WINDOW 39 2 73 Center 0
+SYMATTR Value VO615A_4X_BJT_10mA
+SYMATTR Prefix X
+SYMATTR Description Vishay VO615 Opto Coupler
+SYMATTR ModelFile VO615A_4X_BJT_10mA.lib
+SYMATTR SpiceLine REL_CTR=1.6
+PIN -64 -32 RIGHT 8
+PINATTR PinName A
+PINATTR SpiceOrder 1
+PIN -64 32 RIGHT 8
+PINATTR PinName K
+PINATTR SpiceOrder 2
+PIN 64 -32 LEFT 8
+PINATTR PinName C
+PINATTR SpiceOrder 3
+PIN 64 32 LEFT 8
+PINATTR PinName E
+PINATTR SpiceOrder 4
