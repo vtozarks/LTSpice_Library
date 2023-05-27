@@ -8,6 +8,7 @@ In LTSpice open its "Control Panel" (the "hammer" icon) and select the "Sym & Li
 When adding "Components" to the schematic, the added location should now be an option in the "Top Directory" pulldown.  Select that location and you can now add the custom content from this library.
 
 ## Library Content
+Component links will open the corresponding datasheet.
 
 ### DIODE
 | Component | Manufacturer | Description |
