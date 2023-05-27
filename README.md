@@ -1,4 +1,4 @@
-# My Custom LTSpice Library
+# Ozarks Custom LTSpice Library
 
 Contains symbols and models not included in the standard LTSpice library.
 
