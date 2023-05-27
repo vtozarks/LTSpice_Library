@@ -12,14 +12,14 @@ When adding "Components" to the schematic, the added location should now be an o
 ### DIODE
 | Component | Manufacturer | Description |
 | :---      | :--- | :--- |
-| BAS321 | Nexperia | 200V General purpose diode |
+| [BAS321](DataSheets/Diode/BAS321_Diode.pdf) | Nexperia | 200V General purpose diode |
 
 ### MOSFET
 | Component |  Manufacturer |Description |
 | :---      | :--- | :--- |
-| DMT6012LSS | Diodes Incorporated | 60V N-channel enhancement mode MOSFET |
+| [DMT6012LSS](DataSheets/MOSFET/DMT6012_FET.pdf) | Diodes Incorporated | 60V N-channel enhancement mode MOSFET |
 
 ### OPTOCOUPLER
 | Component |  Manufacturer |Description |
 | :---      | :--- | :--- |
-| VO615A-4X | Vishay | High temp optocoupler, If 10mA, CTR = 160-320% |
+| [VO615A-4X](Datasheet/Optocoupler/VO615a_Optocoupler.pdf) | Vishay | High temp optocoupler, If 10mA, CTR = 160-320% |
